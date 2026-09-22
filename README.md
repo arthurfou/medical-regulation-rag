@@ -1,5 +1,5 @@
 # medical-regulation-rag
-
+  
 A retrieval-augmented chatbot that helps French emergency call handlers (SAMU) find the relevant procedure in the *Guide d'aide à la régulation médicale* while on a call.
 
 ## Team
