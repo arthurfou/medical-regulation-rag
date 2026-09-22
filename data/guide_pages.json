@@ -1,0 +1,249 @@
+{
+  "GENERALITES": {
+    "Introduction - Garantir à chaque patient un égal accès au juste soin": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=80",
+    "Du pied de l’arbre à la Télémédecine et à l’e-Santé": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=358",
+    "Principes de la régulation médicale": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=174",
+    "Du bon usage du Guide": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=172",
+    "Bonnes pratiques en régulation médicale : 15 commandements": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=963",
+    "Les étapes de l’acte de régulation": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=909",
+    "Structure d'un entretien téléphonique d'urgence": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=344",
+    "Boite à outils, outils pour la communication ...": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=204",
+    "Conseil médical": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=164",
+    "Prescription médicamenteuse par téléphone": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=910",
+    "Appels Priorisés P3 - Régulation Médicale Reportée": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=969",
+    "Procédures dégradées générales": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=961"
+  },
+  "MOTIFS DE RECOURS": {
+    "Engagements réflexes du SMUR": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=931",
+    "Degrés d’urgence en régulation médicale : les P, R et B": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=861"
+  },
+  "TRIAGE": {
+    "Organisation et Triage Rapide des appels en mode SAS - application au Covid-19": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=980"
+  },
+  "CARDIO-VASCULAIRE": {
+    "Douleur thoracique non traumatique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=44",
+    "Arrêt cardiaque de l’adulte": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=104",
+    "Arrêt cardiaque de l’enfant (<8 ans)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=971",
+    "Patient porteur d’un stimulateur cardiaque": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=888",
+    "Patient porteur d'un défibrillateur": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=121",
+    "Patient sous assistance circulatoire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=122",
+    "Palpitations": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=878",
+    "Poussée hypertensive (hors grossesse)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=889",
+    "Jambe douloureuse (non traumatique)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=890",
+    "Ajustement du traitement anti-vitamine K": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=108",
+    "Dépistage d’un état de choc": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=960"
+  },
+  "RESPIRATOIRE": {
+    "Dyspnée aiguë de l'adulte": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=195",
+    "Asthme": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=193",
+    "Hémoptysie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=198"
+  },
+  "NEUROLOGIE": {
+    "Malaise": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=200",
+    "Déficit neurologique de survenue brutale": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=208",
+    "NIHSS (National Institute of Health Stroke Scale)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=210",
+    "Convulsions de l'adulte": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=206",
+    "Céphalées": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=214",
+    "Lombalgies": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=908"
+  },
+  "PSYCHIATRIE": {
+    "Crise d’angoisse": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=912",
+    "Agitation aiguë": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=913",
+    "Délire, hallucinations": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=925",
+    "Risque suicidaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=926",
+    "Soins psychiatriques sans consentement": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=225",
+    "Conditions d’engagement de la CUMP": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=939"
+  },
+  "TRAUMATOLOGIE": {
+    "Traumatologie générale": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=237",
+    "Traumatologie domestique, scolaire et sportive": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=239",
+    "Chute à domicile": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=964",
+    "Plaie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=954",
+    "Traumatisme isolé d’un doigt ou d’une main": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=965",
+    "Section de doigt ou de membre": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=242",
+    "Chute d'un lieu élevé": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=244",
+    "Ecrasement, ensevelissement": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=251",
+    "Pendaison": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=524",
+    "Plaie par arme à feu": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=247",
+    "Plaie par arme blanche": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=249",
+    "Violences contre les femmes": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=966",
+    "Transfusion en urgence pré-hospitalière": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=914"
+  },
+  "BRULURES et FUMEES": {
+    "Brûlure de l'adulte": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=519",
+    "Surface corporelle de l'adulte": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=521",
+    "Brûlure de l'enfant (moins de 12 ans)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=290",
+    "Surface corporelle de l'enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=291",
+    "Victime d'incendie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=553",
+    "Intoxication au Monoxyde de Carbone (CO)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=258"
+  },
+  "MORSURES et PIQURES": {
+    "Morsures par animaux": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=892",
+    "Envenimation par morsure de serpent": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=548",
+    "Envenimation par des invertébrés terrestres": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=893",
+    "Envenimation par des animaux marins": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=894"
+  },
+  "TOXICOLOGIE": {
+    "Intoxication Médicamenteuse Volontaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=253",
+    "Intoxication aiguë du toxicomane": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=277",
+    "Intoxication par un produit domestique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=260",
+    "Intoxication par un produit agricole ou industriel": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=262",
+    "Intoxication par des champignons": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=940",
+    "Intoxication par un végétal": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=269",
+    "Erreur de prise médicamenteuse": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=821"
+  },
+  "GYNECO OBST - NEONAT": {
+    "Hémorragie gynécologique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=880",
+    "Accouchement : travail obstétrical": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=824",
+    "Score de Malinas": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=296",
+    "Score Prémat-SPIA Grossesse de moins de 8 mois (≤ 32 SA)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=475",
+    "Score SPIA Grossesse de 8 ou 9 mois (> 32 SA) ou de terme indéterminé": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=477",
+    "Accouchement : le bébé est né": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=822",
+    "Score d'APGAR - Indice de SILVERMAN": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=92",
+    "Hémorragie post-partum": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=882",
+    "Transfert in utero": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=667",
+    "Transfert néonatal": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=823",
+    "Oubli de pilule, contraception du lendemain": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=490",
+    "Poussée hypertensive au cours du 3e trimestre de la grossesse": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=875"
+  },
+  "PEDIATRIE": {
+    "Fièvre de l'enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=278",
+    "Convulsions de l'enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=280",
+    "Traumatisme crânien isolé chez l'enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=284",
+    "Gêne respiratoire non traumatique chez l'enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=281",
+    "Douleur abdominale non traumatique chez l'enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=282",
+    "Gastro-entérite aiguë du nourrisson": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=283",
+    "Pleurs du nourrisson": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=943",
+    "Malaise de l’enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=967",
+    "Malaise grave du nourrisson": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=944",
+    "Mort inexpliquée du nourrisson": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=945",
+    "Maltraitance et sévices à enfants": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=946"
+  },
+  "HEPATO GASTRO ENTEROLOGIE": {
+    "Douleur abdominale non traumatique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=494",
+    "Saignement digestif": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=885",
+    "Plainte d’origine digestive": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=337",
+    "Diarrhée": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=895",
+    "Constipation": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=896"
+  },
+  "INFECTIOLOGIE": {
+    "Syndrome grippal": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=916",
+    "Fièvre en retour de zone tropicale": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=883",
+    "Purpura": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=917",
+    "Risque méningitique en collectivité": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=950",
+    "Éruption cutanée et urticaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=884",
+    "Adénopathies": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=874",
+    "Infections sexuellement transmissibles": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=872",
+    "Accident d’exposition au sang ou autres liquides biologiques": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=881",
+    "Infections à virus grippaux d’origine aviaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=829"
+  },
+  "ORL, STOMATO, OPHTALMO": {
+    "Corps étranger ingéré ou inhalé": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=500",
+    "Epistaxis": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=502",
+    "Vertiges": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=503",
+    "Otalgies": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=504",
+    "Douleurs de la face": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=510",
+    "Douleur dentaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=877",
+    "Traumatisme dentaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=879",
+    "Acouphènes": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=507",
+    "Baisse d’audition et surdité brusques": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=972",
+    "Troubles de la vision et cécité brusques": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=511",
+    "Urgences ophtalmologiques": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=886",
+    "Urgences ophtalmologiques devant un œil blanc": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=947",
+    "Urgences ophtalmologiques devant un oeil rouge": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=668"
+  },
+  "AUTRES PATHOLOGIES": {
+    "Appel pour un patient diabétique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=876",
+    "Urgences urologiques": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=873"
+  },
+  "PATH CIRCONSTANCIELLES": {
+    "Réaction allergique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=897",
+    "Accident électrique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=544",
+    "Noyade": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=825",
+    "Accident de plongée": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=545",
+    "Fièvre chez l’adulte": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=516",
+    "Hypothermie accidentelle": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=514",
+    "Avalanché": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=826",
+    "Mal aigu des montagnes (MAM)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=827"
+  },
+  "RISQUES SANITAIRES": {
+    "Syndrome grippal au retour de voyage": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=898"
+  },
+  "MALADIES RARES": {
+    "Maladies rares : introduction et centres de référence": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=830",
+    "Angio-œdème à bradykinine": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=956",
+    "Drépanocytose": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=831",
+    "Hémophilies congénitales": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=832",
+    "Hyperthermie maligne d’effort": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=957",
+    "Hyperthermie maligne de l’anesthésie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=958",
+    "Syndrome de Marfan": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=833",
+    "Mucoviscidose": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=834",
+    "Myasthénie auto-immune": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=835",
+    "Myopathie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=836",
+    "Ostéogenèse imparfaite": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=837",
+    "Porphyries cutanées bulleuses et érosives": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=838",
+    "Porphyries cutanées photo-algiques": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=959",
+    "Porphyrie hépatique aiguë": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=839",
+    "Sclérose latérale amyotrophique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=840",
+    "Thalassémie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=841",
+    "Maladie de Willebrand": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=842"
+  },
+  "ORGANISATION > APPELS D'ORIGINE PARTICULIERE": {
+    "Appel d’un enfant": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=918",
+    "Appel d’une personne âgée": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=864",
+    "Appel d’un déficient auditif": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=863",
+    "Gestion de l'appel d'un non-francophone": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=651",
+    "Appel en allemand": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=654",
+    "Appel en anglais": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=656",
+    "Appel en arabe (phonétique)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=658",
+    "Appel en espagnol": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=661",
+    "Appel en italien": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=662",
+    "Appel en néerlandais": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=665",
+    "Appel en portugais": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=666",
+    "Appels provenant d’autres départements": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=844",
+    "Appel d’un train en marche": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=902",
+    "Appel provenant d’un navire en mer": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=903",
+    "Appel d’un milieu scolaire": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=640",
+    "Appel provenant d’un EHPAD": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=927"
+  },
+  "ORGANISATION > MODALITES DE TRANSFERT": {
+    "Transfert Inter-Hospitalier (TIH)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=604",
+    "Transfert Infirmier Inter-Hospitalier (TIIH)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=862",
+    "TIIH : recommandations de Samu-Urgences de France": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=788"
+  },
+  "ORGANISATION > GUIDANCE": {
+    "Guider une action par téléphone": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=865",
+    "Guidance lors d’un arrêt cardiaque": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=976",
+    "Mise en position latérale de sécurité": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=977",
+    "Guidance lors d’une obstruction totale des voies aériennes": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=978"
+  },
+  "ORGANISATION > SOINS A DOMICILE": {
+    "Etat de mort, arrêt des gestes de survie": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=900",
+    "Refus de soins": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=673",
+    "Critères pour laisser un patient sur place": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=899",
+    "Résultats d’analyse biologique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=968",
+    "Patient hospitalisé à domicile": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=843",
+    "Soins palliatifs": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=639",
+    "Fin de vie annoncée (à domicile, en EHPAD)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=915",
+    "Deuil par téléphone": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=974"
+  },
+  "ORGANISATION > LOGISTIQUE COLLECTIVE": {
+    "Nombreuses victimes": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=672",
+    "Situations sanitaires à fort impact médiatique": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=594",
+    "Régulation médicale en ambiance NRBC": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=973",
+    "Identification d’un risque sanitaire non encore avéré": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=828"
+  },
+  "ORGANISATION > VECTEURS DE TRANSPORT": {
+    "Transport sanitaire médicalisé héliporté": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=612",
+    "Transport en avion de ligne": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=921"
+  },
+  "ORGANISATION > RELATIONS EXTERIEURES": {
+    "Gestion d’un bilan secouriste au CRRA": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=591",
+    "Recherche de place d'hospitalisation (Intervention primaire)": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=598",
+    "Appel pour assistance ou rapatriement": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=904",
+    "Sollicitation des Médecins Correspondants de SAMU": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=905",
+    "Urgences Sociales": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=643",
+    "Procédure en cas de réclamations": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=650",
+    "Déclarer un évènement indésirable en régulation médicale": "https://www.guide-regulation-medicale.fr/index.php?module=Fiche&action=FrontDetailView&record=962"
+  }
+}

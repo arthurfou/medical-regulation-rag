@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+MIE01_rapportfinal.pdf
+data/cache/

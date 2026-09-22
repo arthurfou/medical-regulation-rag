@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+huggingface_hub
+beautifulsoup4
+jupyter
+
+# GPU (optional): run the models locally instead of calling the Hugging Face Inference API
+# torch
+# transformers
+# accelerate
+# sentence-transformers
